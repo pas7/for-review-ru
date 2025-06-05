@@ -15,13 +15,13 @@
 -  По команде выводится список самых популярных запросов, по которым был поиск
 
 
-[результат работы блокнота в виде html](project_sql.html)
 Ищем в базе фильмов по ключевому слову `Tom Cruise`
 ![Результат поиска по БД фильмов](./sql_1.png)
 
+
 **исходный код моего решения**
-[project_sql.ipynb](project_sql.ipynb) - основной jupyter notebook
-[utils_project.py](utils_project.py)  -  вспомогательный скрипт
+- [project_sql.ipynb](project_sql.ipynb) - основной jupyter notebook
+- [utils_project.py](utils_project.py)  -  вспомогательный скрипт
 
 
 ### Tableau
@@ -38,7 +38,7 @@
 Работа была выполнена в трех разных блокнотах
 - [eda.ipynb](eda.ipynb) - предварительный анализ данных
 - [preprocessing.ipynb](preprocessing.ipynb) - подготовка данных для дальнейшего анализа
-- [project.ipynb](project.ipynb) - финальный анализ данных и продуктовая аналитика -> [project.html](project.html) - результат финального анализа в виде html (тот же блокнот в другом формате)
+- [project.ipynb](project.ipynb) - финальный анализ данных и продуктовая аналитика
 
 
 ### Spark
